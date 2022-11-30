@@ -30,6 +30,7 @@ Shirts based on:
 :black_small_square: Run each the py module Separately
 
 :black_small_square:every py module sorts both in ascending and in descending order :
+###### eg the py module bubble_sort_size.py sorts the sizes both in ascending and in descending order at the same module.
 
 ![Screenshot from 2022-11-30 15-18-08](https://user-images.githubusercontent.com/80916754/204806829-dcce1361-9269-439c-afdd-65db2dcabcb7.png)![Screenshot from 2022-11-30 15-25-34](https://user-images.githubusercontent.com/80916754/204808093-eae2d529-2170-4265-ac09-b5157e0bd41c.png)
 
